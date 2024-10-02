@@ -1,5 +1,0 @@
-director 1
-director 2
-director 3
-director 4
-director 5
